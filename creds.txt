@@ -1,0 +1,9 @@
+[users.alice]
+password     = "M0bTri@l$9"
+display_name = "MobAdmin"
+role         = "admin"
+
+[users.user1]
+password     = "Tri@l$KyC"
+display_name = "User1"
+role         = "user"
